@@ -1,0 +1,40 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name=" EUROSPORT1 4K" tvg-logo="" group-title="SPANISH", EUROSPORT1 4K
+http://0efabacf87978ed4608d39d1d3287469.dramostimes.me/live/cra4.php?z=997&ui=237787&s=CT4NFMTHXQ&id=26281&h=9ef5326e34ecc1ca5d19072103fc41bab8cb357b&n=1635955986&i=81.0.37.15
+
+#EXTINF:-1 tvg-id="" tvg-name="TOROS 4K" tvg-logo="" group-title="SPANISH",TOROS 4K
+http://0efabacf87978ed4608d39d1d3287469.dramostimes.me/live/cra4.php?z=997&ui=237787&s=CT4NFMTHXQ&id=26276&h=9ef5326e34ecc1ca5d19072103fc41bab8cb357b&n=1635955986&i=81.0.37.15
+
+#EXTINF:-1 tvg-id="" tvg-name=" #VAMOS 4K" tvg-logo="" group-title="SPANISH", #VAMOS 4K
+http://0efabacf87978ed4608d39d1d3287469.dramostimes.me/live/cra4.php?z=997&ui=237787&s=CT4NFMTHXQ&id=26267&h=9ef5326e34ecc1ca5d19072103fc41bab8cb357b&n=1635955986&i=81.0.37.15
+
+#EXTINF:-1 tvg-id="" tvg-name="M.LCAMPEONES HD" tvg-logo="" group-title="SPANISH",M.LCAMPEONES HD
+http://0efabacf87978ed4608d39d1d3287469.dramostimes.me/live/cra4.php?z=997&ui=237787&s=CT4NFMTHXQ&id=445&h=9ef5326e34ecc1ca5d19072103fc41bab8cb357b&n=1635955986&i=81.0.37.15
+
+#EXTINF:-1 tvg-id="" tvg-name=" LALIGATV BAR 4K" tvg-logo="" group-title="SPANISH", LALIGATV BAR 4K
+http://0efabacf87978ed4608d39d1d3287469.dramostimes.me/live/cra4.php?z=997&ui=237787&s=CT4NFMTHXQ&id=26269&h=9ef5326e34ecc1ca5d19072103fc41bab8cb357b&n=1635955986&i=81.0.37.15
+
+#EXTINF:-1 tvg-id="" tvg-name="M. LaLiga HD" tvg-logo="" group-title="SPANISH",M. LaLiga HD
+http://0efabacf87978ed4608d39d1d3287469.dramostimes.me/live/cra4.php?z=997&ui=237787&s=CT4NFMTHXQ&id=26046&h=9ef5326e34ecc1ca5d19072103fc41bab8cb357b&n=1635955986&i=81.0.37.15
+
+#EXTINF:-1 tvg-id="" tvg-name="M. LaLiga HD+" tvg-logo="" group-title="SPANISH",M. LaLiga HD+
+http://0efabacf87978ed4608d39d1d3287469.dramostimes.me/live/cra4.php?z=997&ui=237787&s=CT4NFMTHXQ&id=26248&h=9ef5326e34ecc1ca5d19072103fc41bab8cb357b&n=1635955986&i=81.0.37.15
+
+#EXTINF:-1 tvg-id="" tvg-name="M. LaLiga 4K" tvg-logo="" group-title="SPANISH",M. LaLiga 4K
+http://0efabacf87978ed4608d39d1d3287469.dramostimes.me/live/cra4.php?z=997&ui=237787&s=CT4NFMTHXQ&id=26142&h=9ef5326e34ecc1ca5d19072103fc41bab8cb357b&n=1635955986&i=81.0.37.15
+
+#EXTINF:-1 tvg-id="" tvg-name="M. LaLiga 1 HD" tvg-logo="" group-title="SPANISH",M. LaLiga 1 HD
+http://0efabacf87978ed4608d39d1d3287469.dramostimes.me/live/cra4.php?z=997&ui=237787&s=CT4NFMTHXQ&id=26047&h=9ef5326e34ecc1ca5d19072103fc41bab8cb357b&n=1635955986&i=81.0.37.15
+
+#EXTINF:-1 tvg-id="" tvg-name="M. LaLiga 2 HD" tvg-logo="" group-title="SPANISH",M. LaLiga 2 HD
+http://0efabacf87978ed4608d39d1d3287469.dramostimes.me/live/cra4.php?z=997&ui=237787&s=CT4NFMTHXQ&id=26048&h=9ef5326e34ecc1ca5d19072103fc41bab8cb357b&n=1635955986&i=81.0.37.15
+
+#EXTINF:-1 tvg-id="" tvg-name="M.Lcampeones 4K" tvg-logo="" group-title="SPANISH",M.Lcampeones 4K
+http://0efabacf87978ed4608d39d1d3287469.dramostimes.me/live/cra4.php?z=997&ui=237787&s=CT4NFMTHXQ&id=26140&h=9ef5326e34ecc1ca5d19072103fc41bab8cb357b&n=1635955986&i=81.0.37.15
+
+#EXTINF:-1 tvg-id="" tvg-name="M.LCAMPEON 1 HD (SOLO EVENTOS)" tvg-logo="" group-title="SPANISH",M.LCAMPEON 1 HD (SOLO EVENTOS)
+http://0efabacf87978ed4608d39d1d3287469.dramostimes.me/live/cra4.php?z=997&ui=237787&s=CT4NFMTHXQ&id=438&h=9ef5326e34ecc1ca5d19072103fc41bab8cb357b&n=1635955986&i=81.0.37.15
+
+#EXTINF:-1 tvg-id="" tvg-name="M.LCAMPEON 2 HD (SOLO EVENTOS)" tvg-logo="" group-title="SPANISH",M.LCAMPEON 2 HD (SOLO EVENTOS)
+http://0efabacf87978ed4608d39d1d3287469.dramostimes.me/live/cra4.php?z=997&ui=237787&s=CT4NFMTHXQ&id=439&h=9ef5326e34ecc1ca5d19072103fc41bab8cb357b&n=1635955986&i=81.0.37.15
